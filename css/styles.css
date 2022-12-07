@@ -577,7 +577,8 @@ button {
   padding: 63px 24px;
 }
 
-.card:hover .text-overlay {
+.service:hover .text-overlay,
+.service:focus .text-overlay {
   transform: translateY(0);
 }
 
